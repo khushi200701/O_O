@@ -56,24 +56,3 @@ Add your event data in the URL template below:
 
 
 
-
-*************************************************************************************************
-
----
-title: Expertathon # No longer than 24 characters
-description: Experts building the future 🚩 # no longer than 80 characters
-image: https://github.com/campus-experts.png
-address: GitHub HQ
-city: California
-country: USA
-event-date: 2018-11-18 09:30:00 UTC+1
-type: Hackathon
-event-url: http://campus-experts.github.io/ 
-facebook: http://facebook.com/GitHubEducation
-twitter: http://twitter.com/jna_sh
-contact: joenash@github.com
-pin:
-  latitude: 50.067969
-  longitude: 19.912700
-who: [mirdaki, JohnPhamous, wgcv]
----
